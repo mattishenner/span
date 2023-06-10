@@ -159,7 +159,7 @@
     
     button{
         border: none;
-        color: var(--white);
+        color: var(--background);
         background-color: var(--theme);
         font-size: 1em;
         padding: 12px 0;
@@ -232,7 +232,7 @@
     }
     input[type="radio"]:checked + label {
         background-color: var(--theme);
-        color: var(--white);
+        color: var(--background);
         opacity: 1;
     }
 </style>
